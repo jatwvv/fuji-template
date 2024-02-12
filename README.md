@@ -1,0 +1,2 @@
+# fuji-template
+test
